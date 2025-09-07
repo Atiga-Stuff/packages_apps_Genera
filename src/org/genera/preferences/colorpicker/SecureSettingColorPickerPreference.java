@@ -20,7 +20,7 @@ import android.text.TextUtils;
 import android.util.AttributeSet;
 import android.provider.Settings;
 
-import org.genera..preferences.SecureSettingsStore;
+import org.genera.preferences.SecureSettingsStore;
 
 public class SecureSettingColorPickerPreference extends ColorPickerPreference {
 

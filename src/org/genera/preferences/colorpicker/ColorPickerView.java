@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package org.generapreferences.colorpicker;
+package org.genera.preferences.colorpicker;
 
 import android.content.Context;
 import android.graphics.Canvas;

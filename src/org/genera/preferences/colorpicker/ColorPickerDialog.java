@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package ord.genera.preferences.colorpicker;
+package org.genera.preferences.colorpicker;
 
 import android.app.AlertDialog;
 import android.content.Context;
