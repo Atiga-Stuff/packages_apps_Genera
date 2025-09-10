@@ -20,4 +20,18 @@
     android:key="top_level_genera"
     android:title="@string/genera_title" >
 
+    <PreferenceCategory
+        android:key="kategori_statusbar"
+        android:order="1"
+        android:selectable="false"
+        android:title="@string/kategori_statusbar" />
+
+    <PreferenceScreen
+        android:fragment="org.genera.settings.statusbar.BatteryBar"
+        android:icon="@drawable/ic_car_battery"
+        android:key="batterybar"
+        android:order="2"
+        android:summary="@string/battery_bar_summary"
+        android:title="@string/battery_bar_title" />
+
 </PreferenceScreen>
