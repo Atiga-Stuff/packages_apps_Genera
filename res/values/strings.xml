@@ -51,6 +51,10 @@
     <string name="set">Set</string>
     <string name="color_default">Default</string>
 
+    <!-- Custom Logo -->
+    <string name="status_bar_logo_title">Logo</string>
+    <string name="status_bar_logo_summary">Display a custom logo on left of the status bar</string>
+
     <!-- CustomSeekBar -->
     <string name="custom_seekbar_value">Value: <xliff:g id="v">%s</xliff:g></string>
     <string name="custom_seekbar_default_value">by default</string>
