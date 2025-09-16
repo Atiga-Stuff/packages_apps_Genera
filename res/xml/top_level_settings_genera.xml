@@ -20,6 +20,22 @@
     android:key="top_level_genera"
     android:title="@string/genera_title" >
 
+    <!-- Gesture -->
+    <PreferenceCategory
+        android:key="kategori_gesture"
+        android:order="-2"
+        android:selectable="false"
+        android:title="@string/kategori_gesture" />
+
+    <!-- Three-fingers-swipe to screenshot -->
+    <org.genera.settings.preferences.SystemSettingSwitchPreference
+        android:icon="@drawable/ic_three_finger_gesture"
+        android:key="three_finger_gesture"
+        android:order="-1"
+        android:summary="@string/three_finger_gesture_summary"
+        android:title="@string/three_finger_gesture"
+        android:defaultValue="false" />
+
     <!-- Statusbar -->
     <PreferenceCategory
         android:key="kategori_statusbar"

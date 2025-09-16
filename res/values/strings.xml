@@ -39,6 +39,7 @@
     <string name="battery_bar_blend_color_reverse_summary_on">Full &#8594; empty: red &#8594; green &#8594; blue &#8594; red</string>
 
     <!-- Categories -->
+    <string name="kategori_gesture">Gesture</string>
     <string name="kategori_statusbar">Statusbar</string>
 
     <!-- Color Picker -->
@@ -56,6 +57,10 @@
     <string name="custom_seekbar_default_value">by default</string>
     <string name="custom_seekbar_default_value_to_set">Default value: <xliff:g id="v">%s</xliff:g>\nLong tap to set</string>
     <string name="custom_seekbar_default_value_is_set">Default value is set</string>
+
+    <!-- Three-fingers-swipe to screenshot -->
+    <string name="three_finger_gesture">Swipe to screenshot</string>
+    <string name="three_finger_gesture_summary">Swipe three fingers to take screenshot</string>
 
     <!-- Units -->
     <string name="unit_seconds">seconds</string>
