@@ -52,4 +52,11 @@
         android:summary="@string/battery_bar_summary"
         android:title="@string/battery_bar_title" />
 
+    <!-- Combined Signal Icon -->
+    <org.genera.settings.preferences.SystemSettingSwitchPreference
+        android:icon="@drawable/ic_wifi"
+        android:key="combined_status_bar_signal_icons"
+        android:summary="@string/combined_status_bar_signal_icons_summary"
+        android:title="@string/combined_status_bar_signal_icons_title" />
+
 </PreferenceScreen>
