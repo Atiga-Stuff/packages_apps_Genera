@@ -43,6 +43,14 @@
         android:selectable="false"
         android:title="@string/kategori_statusbar" />
 
+    <!-- 4G Icon -->
+    <org.genera.settings.preferences.SystemSettingSwitchPreference
+        android:defaultValue="false"
+        android:icon="@drawable/ic_fourg"
+        android:key="show_fourg_icon"
+        android:summary="@string/show_fourg_icon_summary"
+        android:title="@string/show_fourg_icon_title" />
+
     <!-- Battery Bar -->
     <PreferenceScreen
         android:fragment="org.genera.settings.statusbar.BatteryBar"

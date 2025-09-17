@@ -19,6 +19,10 @@
     <string name="genera_summary">Genera customization features</string>
     <string name="genera_title">Genera</string>
 
+    <!-- 4G icon -->
+    <string name="show_fourg_icon_title">4G icon</string>
+    <string name="show_fourg_icon_summary">Display 4G icon in signal icon instead LTE</string>
+
     <!-- Battery Bar -->
     <string name="battery_bar_title">Battery bar</string>
     <string name="battery_bar_summary">Display and customize battery bar above status bar</string>
