@@ -42,6 +42,10 @@
     <string name="battery_bar_blend_color_reverse_summary_off">Full &#8594; empty: red &#8592; green &#8592; blue &#8592; red</string>
     <string name="battery_bar_blend_color_reverse_summary_on">Full &#8594; empty: red &#8594; green &#8594; blue &#8594; red</string>
 
+    <!-- Call strength icons -->
+    <string name="show_qs_call_strength_icon_title">Show call strength icon(s)</string>
+    <string name="show_qs_call_strength_icon_summary">Show call strength icons in QuickSettings panel when available</string>
+
     <!-- Categories -->
     <string name="kategori_gesture">Gesture</string>
     <string name="kategori_statusbar">Statusbar</string>

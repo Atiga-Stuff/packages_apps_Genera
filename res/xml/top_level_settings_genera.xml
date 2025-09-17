@@ -60,6 +60,13 @@
         android:summary="@string/battery_bar_summary"
         android:title="@string/battery_bar_title" />
 
+    <!-- Call strenght icon -->
+    <org.genera.settings.preferences.SecureSettingSwitchPreference
+        android:key="hide_qs_call_strength"
+        android:title="@string/show_qs_call_strength_icon_title"
+        android:summary="@string/show_qs_call_strength_icon_summary"
+        android:defaultValue="false" />
+
     <!-- Combined Signal Icon -->
     <org.genera.settings.preferences.SystemSettingSwitchPreference
         android:icon="@drawable/ic_wifi"
