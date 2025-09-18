@@ -23,6 +23,10 @@
     <string name="show_fourg_icon_title">4G icon</string>
     <string name="show_fourg_icon_summary">Display 4G icon in signal icon instead LTE</string>
 
+    <!-- Atiga Logo -->
+    <string name="status_bar_logo_title">Statusbar Logo</string>
+    <string name="status_bar_logo_summary">Display a Atiga logo on left of the status bar</string>
+
     <!-- Battery Bar -->
     <string name="battery_bar_title">Battery bar</string>
     <string name="battery_bar_summary">Display and customize battery bar above status bar</string>
