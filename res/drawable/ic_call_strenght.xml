@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2023 The AtigaOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24"
+    android:tint="?android:attr/colorControlNormal">
+
+    <path
+        android:fillColor="#000000"
+        android:strokeWidth="0.0214848"
+        android:pathData="M20.873,21.1182 L19.4147,22.5764 C19.1542,22.8356,18.3915,22.9994,18.3687,22.9994 C13.7521,23.0383,9.30752,21.2257,6.04114,17.9588 C2.76544,14.6838,0.950662,10.2219,1.00102,5.59215 C1.00102,5.58929,1.16822,4.84828,1.42807,4.59047 L2.88636,3.13091 C3.42148,2.59651,4.44598,2.35481,5.16373,2.5938 L5.47122,2.69718 C6.18896,2.93617,6.93889,3.72839,7.13762,4.45748 L7.87212,7.15235 C8.07151,7.88281,7.80366,8.92206,7.2692,9.45646 L6.29433,10.4313 C7.25042,13.9748,10.0293,16.7529,13.5709,17.7103 L14.5458,16.7355 C15.0803,16.2011,16.1223,15.9339,16.8528,16.1326 L19.5478,16.8684 C20.2756,17.0658,21.0678,17.815,21.3082,18.5333 L21.4103,18.8408 C21.6492,19.5593,21.4074,20.5838,20.8731,21.1182 Z M13.3748,11.9997 L14.7498,11.9997 C14.7498,10.4811,13.5185,9.24979,11.9998,9.24979 L11.9998,10.6247 C12.7578,10.6247,13.3748,11.2423,13.3748,11.9997 Z M18.8749,11.9997 C18.8749,8.20242,15.7972,5.12488,11.9998,5.12488 L11.9998,6.49987 C15.0332,6.49987,17.4999,8.96782,17.4999,11.9997 Z M11.9998,1 L11.9998,2.37496 C17.3066,2.37496,21.625,6.69318,21.625,11.9997 L23,11.9997 C23,5.92516,18.0747,1,11.9998,1 Z" />
+</vector>

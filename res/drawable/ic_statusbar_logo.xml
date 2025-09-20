@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2023 The AtigaOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24"
+    android:tint="?android:attr/colorControlNormal">
+
+    <path
+        android:fillColor="#000000"
+        android:strokeWidth="3.66179"
+        android:pathData="M9.04114,4.5 Q11.4013,4.5,13.4598,6.00787 Q15.4004,7.8042,15.7413,9.29895 Q16.0822,10.243,16.0822,11.0166 L16.0822,19.4344 L16.0166,19.5 Q14.076,19.5,13.3156,17.6119 Q13.1845,17.1923,13.1845,16.5498 L13.1845,14.8453 L4.91089,14.8453 L4.91089,16.5498 Q4.91089,18.6346,3.02278,19.3557 Q2.57698,19.4999,2.06561,19.4999 L2.00005,19.4343 L2.00005,11.6458 Q2.00005,7.42377,5.95984,5.20787 Q7.52016,4.50001,9.04114,4.50001 Z M4.91089,11.1608 L4.91089,11.9344 L13.1845,11.9344 L13.1845,11.3706 Q13.1845,9.43004,11.4931,8.04018 Q10.3392,7.24039,9.2247,7.24039 L8.83135,7.24039 Q6.94324,7.24039,5.5796,9.08916 Q4.91089,10.1381,4.91089,11.1608 Z" />
+    <path
+        android:fillColor="#000000"
+        android:strokeWidth="3.66179"
+        android:pathData="M16.4071,4.5 L20.4265,4.5 Q21.2657,4.5,21.8092,5.34393 Q21.9999,5.7206,21.9999,6.05912 Q21.9999,6.7314,21.628,7.19389 L21.628,7.20819 Q21.9999,7.70883,21.9999,8.19039 Q21.9999,9.37284,20.9176,9.83057 Q20.5648,9.95454,20.1261,9.95454 L16.4071,9.95454 L16.3785,9.92593 L16.3785,9.69707 Q16.3785,9.23935,16.9793,8.88652 Q17.2129,8.81977,17.3226,8.81977 L20.3026,8.81977 Q20.8128,8.81977,20.8652,8.24285 Q20.8652,7.952,20.4933,7.79466 L20.3026,7.76605 L18.1856,7.76605 Q17.3131,7.76605,17.0508,7.17959 Q16.9507,6.9698,16.9507,6.79338 L16.9507,6.71232 L16.9793,6.68848 L20.3026,6.68848 Q20.8128,6.68848,20.8652,6.11156 Q20.8652,5.81595,20.4933,5.6586 L20.3025,5.63477 L17.5133,5.63477 Q16.6837,5.63477,16.4214,4.91004 Q16.3785,4.76223,16.3785,4.66211 L16.3785,4.52383 Z" />
+</vector>
