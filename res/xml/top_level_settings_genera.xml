@@ -52,6 +52,14 @@
         android:summary="@string/show_fourg_icon_summary"
         android:title="@string/show_fourg_icon_title" />
 
+    <!-- Background Chip Clock -->
+    <org.genera.settings.preferences.SystemSettingSwitchPreference
+        android:defaultValue="false"
+        android:icon="@drawable/ic_clock_bg"
+        android:key="statusbar_clock_chip"
+        android:summary="@string/statusbar_clock_chip_summary"
+        android:title="@string/statusbar_clock_chip_title" />
+
     <!-- Battery Bar -->
     <PreferenceScreen
         android:fragment="org.genera.settings.statusbar.BatteryBar"
