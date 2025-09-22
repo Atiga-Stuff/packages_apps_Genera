@@ -57,6 +57,7 @@
         android:defaultValue="false"
         android:icon="@drawable/ic_clock_bg"
         android:key="statusbar_clock_chip"
+        android:order="3"
         android:summary="@string/statusbar_clock_chip_summary"
         android:title="@string/statusbar_clock_chip_title" />
 
@@ -65,7 +66,7 @@
         android:fragment="org.genera.settings.statusbar.BatteryBar"
         android:icon="@drawable/ic_battery_bar"
         android:key="batterybar"
-        android:order="3"
+        android:order="4"
         android:summary="@string/battery_bar_summary"
         android:title="@string/battery_bar_title" />
 
@@ -73,7 +74,7 @@
     <org.genera.settings.preferences.SecureSettingSwitchPreference
         android:icon="@drawable/ic_call_strenght"
         android:key="hide_qs_call_strength"
-        android:order="4"
+        android:order="5"
         android:title="@string/show_qs_call_strength_icon_title"
         android:summary="@string/show_qs_call_strength_icon_summary"
         android:defaultValue="false" />
@@ -82,7 +83,7 @@
     <org.genera.settings.preferences.SystemSettingSwitchPreference
         android:icon="@drawable/ic_combined_signal"
         android:key="combined_status_bar_signal_icons"
-        android:order="5"
+        android:order="6"
         android:summary="@string/combined_status_bar_signal_icons_summary"
         android:title="@string/combined_status_bar_signal_icons_title" />
 
@@ -90,7 +91,7 @@
     <org.genera.settings.preferences.SystemSettingSwitchPreference
         android:icon="@drawable/ic_statusbar_logo"
         android:key="status_bar_logo"
-        android:order="6"
+        android:order="7"
         android:title="@string/status_bar_logo_title"
         android:summary="@string/status_bar_logo_summary" />
 
